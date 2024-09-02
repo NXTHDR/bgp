@@ -1,4 +1,9 @@
 *
+
 !ixp_*/**/bird.conf
+
 !.gitignore
+!README.md
+!LICENSE
+
 !*/
