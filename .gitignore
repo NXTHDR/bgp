@@ -1,0 +1,4 @@
+*
+!ixp_*/**/bird.conf
+!.gitignore
+!*/
