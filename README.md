@@ -7,4 +7,4 @@ If you spot any security concerns, please don't hesitate to open a GitHub issue.
 ID              | Provider    | IXPs
 --------------- | ------------|------------------
 `ixp_ifog_fra`  | iFog        | `LocIX`, `FogIXP`
-`ixp_ifog_ams`  | iFog        | 
+`ixp_ifog_ams`  | iFog        | `NL-IX`
